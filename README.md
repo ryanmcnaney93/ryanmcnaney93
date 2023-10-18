@@ -1,6 +1,8 @@
 ### Hi, I'm Ryan McNaney 👋
 
-I'm a data analyst working in my current role as a Reporting and Business Intelligence (BI) Consultant, with a proven track record in supporting clients through the design and implementation of BI & analytical tools to achieve business outcomes, including enhanced decision-making. I recently completed the LSE Data Analytics certification, where I was awarded with a Distinction. The 9-month course focused on developing technical expertise in data science and statistical modelling techniques, while applying SQL, Tableau, Python and R to complex datasets in order to facilitate data-driven business decision-making. This included a real world project working with a FinTech lending company, Amplifi Capital, to improve their existing affordability calculations within a Responsible Lending framework.
+I'm a data analyst working in my current role as a Reporting and Business Intelligence (BI) Consultant, with a proven track record in supporting clients through the design and implementation of BI & analytical tools to achieve business outcomes, including enhanced decision-making. 
+
+I recently completed the LSE Data Analytics certification, where I was awarded with a Distinction. The 9-month course focused on developing technical expertise in data science and statistical modelling techniques, while applying SQL, Tableau, Python and R to complex datasets in order to facilitate data-driven business decision-making. This included a real world project working with a FinTech lending company, Amplifi Capital, to improve their existing affordability calculations within a Responsible Lending framework.
 
 Prior to joining PwC, I graduated with a First Class Honours in Chemical Engineering MEng at Newcastle University.
 
